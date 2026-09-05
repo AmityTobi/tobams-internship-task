@@ -1,6 +1,7 @@
 import Navbar from "@/components/navbar";
 import Hero from "@/components/hero";
 import LMSBlock from "@/components/lmsBlock";
+import ServicesSection from "@/components/servicesSection";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <LMSBlock />
+      <ServicesSection />
     </main>
   );
 }
