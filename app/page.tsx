@@ -2,6 +2,7 @@ import Navbar from "@/components/navbar";
 import Hero from "@/components/hero";
 import LMSBlock from "@/components/lmsBlock";
 import ServicesSection from "@/components/servicesSection";
+import ManagementProgram from "@/components/managementProgram";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <LMSBlock />
       <ServicesSection />
+      <ManagementProgram />
     </main>
   );
 }
