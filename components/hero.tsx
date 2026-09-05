@@ -10,7 +10,7 @@ export default function Hero() {
         alt="Lady staring at a screen"
         fill
         priority
-        quality={100}
+        quality={75}
         className="object-cover object-center -z-30 block md:hidden"
       />
 
@@ -30,7 +30,7 @@ export default function Hero() {
           WHAT WE DO
         </div>
 
-        <h1 className="w-[327px] md:w-auto h-auto text-[24px] md:text-[56px] font-bold leading-[130%] tracking-tight text-center text-white mb-3 md:mb-4">
+        <h1 className="w-[327px] md:w-auto h-auto text-[24px] md:text-[56px] font-bold leading-[130%] tracking-tight text-center text-white mb-3 md:mb-4 font-['Nunito']">
           Training and Development
         </h1>
 
