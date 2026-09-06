@@ -5,6 +5,7 @@ import ServicesSection from "@/components/servicesSection";
 import ManagementProgram from "@/components/managementProgram";
 import TransformationHub from "@/components/transformationHub";
 import TrainingConsultant from "@/components/trainingConsultant";
+import ConsultationCTA from "@/components/consultationCTA";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <ManagementProgram />
       <TransformationHub />
       <TrainingConsultant />
+      <ConsultationCTA />
     </main>
   );
 }
