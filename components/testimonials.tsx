@@ -76,7 +76,7 @@ export default function Testimonials() {
               height="28"
               rx="4"
               fill="#F04354"
-              fill-opacity="0.1"
+              fillOpacity="0.1"
             />
             <path
               d="M12.6327 13.9999L18.4077 19.7749L16.758 21.4257L9.33337 13.9999L16.758 6.5752L18.4077 8.22486L12.6327 13.9999Z"
@@ -97,7 +97,7 @@ export default function Testimonials() {
               rx="4"
               transform="matrix(-1 0 0 1 28 0)"
               fill="#F04354"
-              fill-opacity="0.1"
+              fillOpacity="0.1"
             />
             <path
               d="M15.3673 13.9999L9.59229 19.7749L11.242 21.4257L18.6666 13.9999L11.242 6.5752L9.59229 8.22486L15.3673 13.9999Z"
