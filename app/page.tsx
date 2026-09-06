@@ -4,6 +4,7 @@ import LMSBlock from "@/components/lmsBlock";
 import ServicesSection from "@/components/servicesSection";
 import ManagementProgram from "@/components/managementProgram";
 import TransformationHub from "@/components/transformationHub";
+import TrainingConsultant from "@/components/trainingConsultant";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <ServicesSection />
       <ManagementProgram />
       <TransformationHub />
+      <TrainingConsultant />
     </main>
   );
 }
